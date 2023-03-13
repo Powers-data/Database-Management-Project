@@ -25,9 +25,9 @@ A MealModel is three different models suggested by the owner or pet’s nutritio
 A MealPlanl is a designed meal plan for a pet with preference, requirement, and quantity of an ingredient in stock. If there is an insufficient quantity of an ingredient in stock, the database will suggest replenishment from the store what amount is needed for the meal plan.
 
 ## Data Questions
-	What are the top 5 ingredient types for preference by pet? 
-	What is the average needs calorie by pet type? 
-	What is the average age by pet type and most common activity level for a pet? 
-	How is the percentage divided between pets with spayed and pets without spayed by pet type?
-	What is the average daily raw food bill per pet? And how connected to their weight?
+*	What are the top 5 ingredient types for preference by pet? 
+*	What is the average needs calorie by pet type? 
+*	What is the average age by pet type and most common activity level for a pet? 
+*	How is the percentage divided between pets with spayed and pets without spayed by pet type?
+*	What is the average daily raw food bill per pet? And how connected to their weight?
 
